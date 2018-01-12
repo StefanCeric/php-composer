@@ -234,6 +234,7 @@ if (isset($_POST["submit"]) && $_POST["submit"] == "sendEmail") {
 		<div class="container">
 			<div class="page-header">
 				<h1>Get in touch Feature 1</h1>
+                                <h3>Title</h3>
 			</div>
 			<div class="row">
 				<div class="col-xs-12">
